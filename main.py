@@ -41,8 +41,8 @@ div.css-1nm2qww {
 }
 </style>""", unsafe_allow_html=True)
 
-public_key = "c588e644e2a80de7272d23427133cdd1"
-private_key = "cb6b03a733af733bed50f3e3bb94bf483f3b39b1"
+public_key = "SUA_CHAVE_AQUI"
+private_key = "SUA_CHAVE_AQUI"
 
 id = []
 event_name = []
